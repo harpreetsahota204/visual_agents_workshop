@@ -18,17 +18,13 @@ In Session 1, we dove deep into the evolving world of GUI agents, OS agents, and
 
 ### 🔬 **Full Research Repository**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Research%20Repository-black?logo=github&logoColor=white)](https://github.com/harpreetsahota204/gui_agent_research_landscape)
-
-[![Stars](https://img.shields.io/github/stars/harpreetsahota204/gui_agent_research_landscape?style=social)](https://github.com/harpreetsahota204/gui_agent_research_landscape)
+[![GitHub](https://img.shields.io/badge/GitHub-Research%20Repository-black?logo=github&logoColor=white)](https://github.com/harpreetsahota204/gui_agent_research_landscape) [![Stars](https://img.shields.io/github/stars/harpreetsahota204/gui_agent_research_landscape?style=social)](https://github.com/harpreetsahota204/gui_agent_research_landscape)
 
 For the complete analysis, code, and detailed findings, explore the full repository with our research pipeline, data extraction methods, and comprehensive visualizations.
 
 ### 🎥 **Watch the Session**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Session-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=d-bLgV3GFqE&t=1s)
-
-[![Views](https://img.shields.io/youtube/views/d-bLgV3GFqE?style=social)](https://www.youtube.com/watch?v=d-bLgV3GFqE&t=1s)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Session-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=d-bLgV3GFqE&t=1s) [![Views](https://img.shields.io/youtube/views/d-bLgV3GFqE?style=social)](https://www.youtube.com/watch?v=d-bLgV3GFqE&t=1s)
 
 
 ### 📊 **Session Slides**
