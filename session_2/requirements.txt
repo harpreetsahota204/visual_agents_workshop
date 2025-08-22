@@ -5,3 +5,4 @@ open-clip-torch
 umap-learn
 numpy
 sentence-transformers
+huggingface-hub
