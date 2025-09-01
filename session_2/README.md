@@ -46,4 +46,3 @@ The notebook used for this session can be found [here](session_2/working_with_gu
 ### 📊 **Session Slides**
 
 [![Google Slides](https://img.shields.io/badge/Google%20Slides-View%20Presentation-blue?logo=google&logoColor=white)](https://docs.google.com/presentation/d/1KIrjqpvQ9bNa0Dv_wN3UetStCijn9Uf5rf1xjh6gJZA/edit?usp=sharing)
-
