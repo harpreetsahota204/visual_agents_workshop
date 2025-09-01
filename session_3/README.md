@@ -38,7 +38,7 @@ In Session 3 the focus shifted to **models** for GUI agents, exploring their arc
 
 ### 🎥 **Watch the Session**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Session-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Lzl-ktGbAz8) [![Views](https://www.youtube.com/watch?v=Lzl-ktGbAz8?style=social)](https://www.youtube.com/watch?v=Lzl-ktGbAz8)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Session-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Lzl-ktGbAz8) [![Views](https://img.shields.io/youtube/views/Lzl-ktGbAz8?style=social)](https://www.youtube.com/watch?v=Lzl-ktGbAz8)
 
 
 ### 📊 **Session Slides**

@@ -39,7 +39,7 @@ The notebook used for this session can be found [here](https://github.com/harpre
 
 ### 🎥 **Watch the Session**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Session-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mCBJHQ5SYJg) [![Views](https://www.youtube.com/watch?v=mCBJHQ5SYJg?style=social)](https://www.youtube.com/watch?v=mCBJHQ5SYJg)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Session-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mCBJHQ5SYJg) [![Views](https://img.shields.io/youtube/views/mCBJHQ5SYJg?style=social)](https://www.youtube.com/watch?v=mCBJHQ5SYJg)
 
 
 ### 📊 **Session Slides**
