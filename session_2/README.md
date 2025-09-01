@@ -28,7 +28,7 @@ In Session 2, titled "From Pixels to Predictions - Building GUI Datasets," the f
 
 ### 👨🏽‍💻 **Code for this Session**
 
-The notebook used for this session can be found [here](session_2/working_with_gui_datasets.ipynb).
+The notebook used for this session can be found [here](https://github.com/harpreetsahota204/visual_agents_workshop/blob/main/session_2/working_with_gui_datasets.ipynb).
 
 *   The tool used to create the dataset is **COCO4GUI - A COCO-based GUI dataset collector**. This tool is involved in building datasets in the **COCO4GUI format**. You can find it at: https://github.com/harpreetsahota204/gui_dataset_creator
 
