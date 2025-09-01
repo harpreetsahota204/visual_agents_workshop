@@ -37,10 +37,9 @@ The notebook used for this session can be found [here](https://github.com/harpre
 *   The plugin for generating synthetic samples, which is part of the process for **generating synthetic data**, is the **Synthetic GUI samples plugin for FiftyOne**. You can find it at: https://github.com/harpreetsahota204/synthetic_gui_samples_plugins
 
 
-
 ### 🎥 **Watch the Session**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Session-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mCBJHQ5SYJg) [![Views](https://img.shields.io/youtube/views/d-bLgV3GFqE?style=social)](https://www.youtube.com/watch?v=mCBJHQ5SYJg)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Session-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=mCBJHQ5SYJg) [![Views](https://www.youtube.com/watch?v=mCBJHQ5SYJg?style=social)](https://www.youtube.com/watch?v=mCBJHQ5SYJg)
 
 
 ### 📊 **Session Slides**
